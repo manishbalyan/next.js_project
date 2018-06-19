@@ -2,7 +2,7 @@
   "name": "next.js-app",
   "version": "0.0.1",
   "dependencies": {
-    "next": "^1.2.3"
+    "next": "^4.2.3"
   },
 
   "scripts": {
